@@ -28,3 +28,114 @@
     @apply bg-background text-foreground antialiased;
   }
 }
+
+/* Scroll-triggered animation base states */
+.animate-on-scroll {
+  opacity: 0;
+  transform: translateY(32px);
+  transition: opacity 0.7s cubic-bezier(0.16, 1, 0.3, 1),
+    transform 0.7s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.animate-on-scroll.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.animate-fade-left {
+  opacity: 0;
+  transform: translateX(-40px);
+  transition: opacity 0.7s cubic-bezier(0.16, 1, 0.3, 1),
+    transform 0.7s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.animate-fade-left.is-visible {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.animate-fade-right {
+  opacity: 0;
+  transform: translateX(40px);
+  transition: opacity 0.7s cubic-bezier(0.16, 1, 0.3, 1),
+    transform 0.7s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.animate-fade-right.is-visible {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.animate-scale-in {
+  opacity: 0;
+  transform: scale(0.92);
+  transition: opacity 0.6s cubic-bezier(0.16, 1, 0.3, 1),
+    transform 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.animate-scale-in.is-visible {
+  opacity: 1;
+  transform: scale(1);
+}
+
+/* Staggered children - delay each card */
+.stagger-children > * {
+  opacity: 0;
+  transform: translateY(28px);
+  transition: opacity 0.6s cubic-bezier(0.16, 1, 0.3, 1),
+    transform 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.stagger-children.is-visible > *:nth-child(1) { opacity: 1; transform: translateY(0); transition-delay: 0ms; }
+.stagger-children.is-visible > *:nth-child(2) { opacity: 1; transform: translateY(0); transition-delay: 120ms; }
+.stagger-children.is-visible > *:nth-child(3) { opacity: 1; transform: translateY(0); transition-delay: 240ms; }
+.stagger-children.is-visible > *:nth-child(4) { opacity: 1; transform: translateY(0); transition-delay: 360ms; }
+.stagger-children.is-visible > *:nth-child(5) { opacity: 1; transform: translateY(0); transition-delay: 480ms; }
+.stagger-children.is-visible > *:nth-child(6) { opacity: 1; transform: translateY(0); transition-delay: 600ms; }
+
+/* Hero specific entrance */
+@keyframes hero-fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes hero-fade-in-scale {
+  from {
+    opacity: 0;
+    transform: scale(0.9);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.hero-text-enter {
+  animation: hero-fade-up 0.8s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.hero-text-enter-delay-1 {
+  opacity: 0;
+  animation: hero-fade-up 0.8s cubic-bezier(0.16, 1, 0.3, 1) 0.15s forwards;
+}
+
+.hero-text-enter-delay-2 {
+  opacity: 0;
+  animation: hero-fade-up 0.8s cubic-bezier(0.16, 1, 0.3, 1) 0.3s forwards;
+}
+
+.hero-text-enter-delay-3 {
+  opacity: 0;
+  animation: hero-fade-up 0.8s cubic-bezier(0.16, 1, 0.3, 1) 0.45s forwards;
+}
+
+.hero-image-enter {
+  opacity: 0;
+  animation: hero-fade-in-scale 1s cubic-bezier(0.16, 1, 0.3, 1) 0.3s forwards;
+}

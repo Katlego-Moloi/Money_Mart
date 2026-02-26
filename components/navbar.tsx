@@ -46,7 +46,7 @@ export function Navbar() {
             href="https://wa.me/27686750971"
             target="_blank"
             rel="noopener noreferrer"
-            className="rounded-lg bg-primary px-5 py-2.5 text-sm font-semibold text-primary-foreground transition-colors hover:bg-primary/90"
+            className="rounded-lg bg-primary px-5 py-2.5 text-sm font-semibold text-primary-foreground transition-all hover:bg-primary/90 hover:shadow-lg hover:shadow-primary/25 active:scale-[0.98]"
           >
             Request a quote
           </a>
@@ -93,7 +93,7 @@ export function Navbar() {
               href="https://wa.me/27686750971"
               target="_blank"
               rel="noopener noreferrer"
-              className="rounded-lg bg-primary px-5 py-2.5 text-center text-sm font-semibold text-primary-foreground transition-colors hover:bg-primary/90"
+              className="rounded-lg bg-primary px-5 py-2.5 text-center text-sm font-semibold text-primary-foreground transition-all hover:bg-primary/90 hover:shadow-lg hover:shadow-primary/25 active:scale-[0.98]"
               onClick={() => setMobileOpen(false)}
             >
               Request a quote

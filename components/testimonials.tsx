@@ -1,5 +1,8 @@
+"use client";
+
 import Image from "next/image";
-import { Quote } from "lucide-react";
+import { Quote, Star } from "lucide-react";
+import { useScrollAnimation } from "@/hooks/use-scroll-animation";
 
 const testimonials = [
   {
@@ -25,11 +28,17 @@ const testimonials = [
 ];
 
 export function Testimonials() {
+  const headerAnim = useScrollAnimation();
+  const cardsAnim = useScrollAnimation({ threshold: 0.05 });
+
   return (
     <section className="bg-background py-16 lg:py-24">
       <div className="mx-auto max-w-7xl px-4 lg:px-8">
         {/* Section Header */}
-        <div className="mx-auto mb-12 flex max-w-2xl flex-col items-center gap-4 text-center lg:mb-16">
+        <div
+          ref={headerAnim.ref}
+          className={`animate-on-scroll mx-auto mb-12 flex max-w-2xl flex-col items-center gap-4 text-center lg:mb-16 ${headerAnim.isVisible ? "is-visible" : ""}`}
+        >
           <h2 className="text-3xl font-bold tracking-tight text-foreground md:text-4xl">
             Testimonials
           </h2>
@@ -40,18 +49,33 @@ export function Testimonials() {
         </div>
 
         {/* Testimonials Grid */}
-        <div className="grid gap-6 md:grid-cols-2">
+        <div
+          ref={cardsAnim.ref}
+          className={`stagger-children grid gap-6 md:grid-cols-2 ${cardsAnim.isVisible ? "is-visible" : ""}`}
+        >
           {testimonials.map((testimonial) => (
             <div
               key={testimonial.name}
-              className="flex flex-col gap-4 rounded-2xl border border-border bg-card p-6 shadow-sm lg:p-8"
+              className="group flex flex-col gap-4 rounded-2xl border border-border bg-card p-6 shadow-sm transition-all duration-300 hover:shadow-lg hover:-translate-y-1 lg:p-8"
             >
-              <Quote className="h-8 w-8 text-primary/40" />
+              {/* Stars */}
+              <div className="flex items-center gap-1">
+                {Array.from({ length: 5 }).map((_, i) => (
+                  <Star
+                    key={i}
+                    className="h-4 w-4 fill-primary text-primary"
+                  />
+                ))}
+              </div>
+
+              <Quote className="h-8 w-8 text-primary/30 transition-colors duration-300 group-hover:text-primary/50" />
+
               <p className="flex-1 text-sm leading-relaxed text-muted-foreground">
                 {testimonial.text}
               </p>
+
               <div className="flex items-center gap-3 border-t border-border pt-4">
-                <div className="relative h-10 w-10 flex-shrink-0 overflow-hidden rounded-full">
+                <div className="relative h-10 w-10 flex-shrink-0 overflow-hidden rounded-full ring-2 ring-primary/20">
                   <Image
                     src={testimonial.image}
                     alt={`${testimonial.name} portrait`}

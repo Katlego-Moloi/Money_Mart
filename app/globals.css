@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 210 20% 10%;
+    --primary: 145 63% 32%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 145 50% 92%;
+    --secondary-foreground: 145 63% 20%;
+    --muted: 210 15% 96%;
+    --muted-foreground: 210 10% 45%;
+    --accent: 145 50% 92%;
+    --accent-foreground: 145 63% 20%;
+    --card: 0 0% 100%;
+    --card-foreground: 210 20% 10%;
+    --border: 210 15% 90%;
+    --radius: 0.75rem;
+  }
+
+  * {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-background text-foreground antialiased;
+  }
+}

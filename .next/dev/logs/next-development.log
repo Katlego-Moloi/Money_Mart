@@ -1,0 +1,22 @@
+[00:00:01.752] Server  LOG     
+[00:00:01.752] Server  LOG       We detected TypeScript in your project and reconfigured your tsconfig.json file for you.
+[00:00:01.752] Server  LOG       The following suggested values were added to your tsconfig.json. These values can be changed to fit your project's needs:
+
+[00:00:01.753] Server  LOG       	- include was updated to add '.next/dev/types/**/*.ts'
+[00:00:01.753] Server  LOG     
+[00:00:01.753] Server  LOG       The following mandatory changes were made to your tsconfig.json:
+
+[00:00:01.754] Server  LOG       	- jsx was set to react-jsx (next.js uses the React automatic runtime)
+[00:00:01.754] Server  LOG     
+[00:00:02.047] Server  LOG     ✓ Ready in 1140ms
+[00:00:30.520] Server  LOG     ○ Compiling / ...
+[00:00:34.054] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:35.165] Browser WARN    Image with src "/images/student-loans.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:35.165] Browser WARN    Image with src "/images/investments.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:36.745] Browser WARN    Image with src "/images/investing.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:37.506] Browser WARN    Image with src "/images/ntombi.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:37.647] Browser WARN    Image with src "/images/francer.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:37.888] Browser WARN    Image with src "/images/khulani.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:38.349] Browser WARN    Image with src "/images/prince.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:38.350] Browser WARN    Image with src "/images/unami.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:38.567] Browser WARN    Image with src "/images/tebatso.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes

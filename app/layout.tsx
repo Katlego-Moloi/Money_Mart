@@ -34,7 +34,10 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className={spaceGrotesk.variable}>
-      <body className="font-sans">{children}</body>
+      <body className="font-sans">
+        {children}
+        <Analytics />
+      </body>
     </html>
   );
 }

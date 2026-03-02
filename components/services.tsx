@@ -6,19 +6,19 @@ import { useScrollAnimation } from "@/hooks/use-scroll-animation";
 
 const investmentTiers = [
   {
-    range: "R100 - R500",
+    range: "R1 000 - R3 000",
     rate: "5%",
     label: "Starter",
     description: "Begin your investment journey",
   },
   {
-    range: "R500 - R1,000",
+    range: "R3 500 - R9 500",
     rate: "10%",
     label: "Growth",
     description: "Accelerate your returns",
   },
   {
-    range: "R1,001+",
+    range: "R10,000+",
     rate: "15%",
     label: "Premium",
     description: "Maximize your earnings",
@@ -121,12 +121,12 @@ export function Services() {
                   <GraduationCap className="h-5 w-5" />
                 </div>
                 <h3 className="text-2xl font-bold text-foreground">
-                  Student Loans Available
+                  Loans Available
                 </h3>
               </div>
               <p className="text-sm leading-relaxed text-muted-foreground">
-                Quick and affordable student loans to help you focus on your
-                education. Transparent terms with no hidden fees.
+                Quick and affordable loans to help you focus on what matters.
+                Transparent terms with no hidden fees.
               </p>
               <a
                 href="https://wa.me/27686750971"

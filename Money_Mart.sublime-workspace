@@ -1,0 +1,701 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/layout.tsx",
+			"settings":
+			{
+				"buffer_size": 1094,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"",
+					null,
+					"AQAAAAAAAAAAAAAAMgAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					2,
+					1,
+					"revert",
+					null,
+					"AwAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAaW1wb3J0IHsgQW5hbHl0aWNzIH0gZnJvbSAiQHZlcmNlbC9hbmFseXRpY3MvbmV4dCIKaW1wb3J0IHR5cGUgeyBNZXRhZGF0YSB9IGZyb20gIm5leHQiOwppbXBvcnQgeyBTcGFjZV9Hcm90ZXNrIH0gZnJvbSAibmV4dC9mb250L2dvb2dsZSI7CmltcG9ydCAiLi9nbG9iYWxzLmNzcyI7Cgpjb25zdCBzcGFjZUdyb3Rlc2sgPSBTcGFjZV9Hcm90ZXNrKHsKICBzdWJzZXRzOiBbImxhdGluIl0sCiAgdmFyaWFibGU6ICItLWZvbnQtc3BhY2UtZ3JvdGVzayIsCn0pOwoKZXhwb3J0IGNvbnN0IG1ldGFkYXRhOiBNZXRhZGF0YSA9IHsKICB0aXRsZTogIk1vbmV5TWFydCBMb2FucyAmIEludmVzdG1lbnRzIiwKICBkZXNjcmlwdGlvbjoKICAgICJPdXIgbG9hbnMgYW5kIGludmVzdG1lbnRzIGhlbHAgYnVzaW5lc3NlcyBhbmQgaW5kaXZpZHVhbHMgZ3JvdyBhbmQgc3VjY2VlZCBmaW5hbmNpYWxseSB0aHJvdWdoIGEgcmFuZ2Ugb2Ygc2VydmljZXMuIiwKICBvcGVuR3JhcGg6IHsKICAgIHRpdGxlOiAiTW9uZXlNYXJ0IExvYW5zICYgSW52ZXN0bWVudHMiLAogICAgZGVzY3JpcHRpb246CiAgICAgICJPdXIgbG9hbnMgYW5kIGludmVzdG1lbnRzIGhlbHAgYnVzaW5lc3NlcyBhbmQgaW5kaXZpZHVhbHMgZ3JvdyBhbmQgc3VjY2VlZCBmaW5hbmNpYWxseSB0aHJvdWdoIGEgcmFuZ2Ugb2Ygc2VydmljZXMuIiwKICAgIHR5cGU6ICJ3ZWJzaXRlIiwKICAgIHNpdGVOYW1lOiAiTW9uZXlNYXJ0IiwKICB9LAogIHR3aXR0ZXI6IHsKICAgIGNhcmQ6ICJzdW1tYXJ5X2xhcmdlX2ltYWdlIiwKICB9LAogIGljb25zOiB7CiAgICBpY29uOiAiL2Zhdmljb24ucG5nIiwKICB9LAp9OwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gUm9vdExheW91dCh7CiAgY2hpbGRyZW4sCn06IHsKICBjaGlsZHJlbjogUmVhY3QuUmVhY3ROb2RlOwp9KSB7CiAgcmV0dXJuICgKICAgIDxodG1sIGxhbmc9ImVuIiBjbGFzc05hbWU9e3NwYWNlR3JvdGVzay52YXJpYWJsZX0+CiAgICAgIDxib2R5IGNsYXNzTmFtZT0iZm9udC1zYW5zIj57Y2hpbGRyZW59PC9ib2R5PgogICAgPC9odG1sPgogICk7Cn0KAAAAAAAAAABGBAAAAAAAAAAAAAAAAAAAAAAAAEYEAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAADIAAAAAAAAAMgAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAEUEAAAAAAAARgQAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABFBAAAAAAAAEUEAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAEYEAAAAAAAARwQAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABGBAAAAAAAAEYEAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					40,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEYEAAAAAAAARgQAAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABHBAAAAAAAAEcEAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					42,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEUEAAAAAAAARQQAAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABGBAAAAAAAAEYEAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"contents": "                                                                            \n  Welcome to Bazzite 󰊴                                                      \n                                                                            \n  󱋩  bazzite-asus:stable                                                    \n                                                                            \n    Command                          │ Description                         \n  ────────────────────────────────────┼───────────────────────────────────  \n    ujust                             │ List all available commands         \n    ujust toggle-user-motd            │ Toggle this banner on/off           \n    ujust changelog                   │ View changelog                      \n    fastfetch                         │ View system information             \n                                                                            \n  󰋼 Support indie game preservation and OSS developers!                     \n  Join Hit Save!'s Patreon https://patreon.com/hitsave                      \n                                                                            \n  •  Report an issue https://github.com/ublue-os/bazzite/issues            \n  • 󰈙 Documentation http://docs.bazzite.gg/                                 \n  • 󰙯 Discord https://discord.bazzite.gg/                                   \n  • 󰫑 Mastodon https://fosstodon.org/@UniversalBlue                         \n  •  Bluesky https://bsky.app/profile/bazzite.gg                           \nmoloitk@bazzite:/var/home/moloitk/Documents/GitHub/Money_Mart$ ",
+			"settings":
+			{
+				"buffer_size": 1603,
+				"line_ending": "Unix",
+				"name": "moloitk@bazzite:/var/home/moloitk/Documents/GitHub/Money_Mart",
+				"scratch": true
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					2,
+					"terminus_activate",
+					{
+						"auto_close": true,
+						"cancellable": false,
+						"cmd":
+						[
+							"/bin/bash",
+							"-i",
+							"-l"
+						],
+						"cwd": "/home/moloitk/Documents/GitHub/Money_Mart",
+						"default_title": "Login Shell",
+						"env":
+						{
+							"LANG": "en_ZA.UTF-8",
+							"PROMPT_TOOLKIT_COLOR_DEPTH": "DEPTH_8_BIT",
+							"TERM": "xterm-256color",
+							"TERMINUS_SUBLIME": "1",
+							"TERM_PROGRAM": "Terminus-Sublime"
+						},
+						"file_regex": null,
+						"line_regex": null,
+						"panel_name": "Terminus",
+						"reactivable": true,
+						"show_in_panel": null,
+						"tag": null,
+						"timeit": false,
+						"title": null,
+						"view_settings":
+						{
+						}
+					},
+					"AgAAAAAAAAAAAAAAAAAAAAAAAABMBwAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogIFdlbGNvbWUgdG8gQmF6eml0ZSDzsIq0ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICDzsYupICBiYXp6aXRlLWFzdXM6c3RhYmxlICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgIO+StSBDb21tYW5kICAgICAgICAgICAgICAgICAgICAgICAgICDilIIgRGVzY3JpcHRpb24gICAgICAgICAgICAgICAgICAgICAgICAgCiAg4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pS84pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSAICAKICAgIHVqdXN0ICAgICAgICAgICAgICAgICAgICAgICAgICAgICDilIIgTGlzdCBhbGwgYXZhaWxhYmxlIGNvbW1hbmRzICAgICAgICAgCiAgICB1anVzdCB0b2dnbGUtdXNlci1tb3RkICAgICAgICAgICAg4pSCIFRvZ2dsZSB0aGlzIGJhbm5lciBvbi9vZmYgICAgICAgICAgIAogICAgdWp1c3QgY2hhbmdlbG9nICAgICAgICAgICAgICAgICAgIOKUgiBWaWV3IGNoYW5nZWxvZyAgICAgICAgICAgICAgICAgICAgICAKICAgIGZhc3RmZXRjaCAgICAgICAgICAgICAgICAgICAgICAgICDilIIgVmlldyBzeXN0ZW0gaW5mb3JtYXRpb24gICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICDzsIu8IEhhdmUgYSBsYXJnZSBsaWJyYXJ5IG9mIFJPTXMgdG8gbWFuYWdlPyBST00gUHJvcGVydGllcyBQYWdlIHNoZWxsICAgICAgIAogIGV4dGVuc2lvbiBpcyBpbnN0YWxsZWQgYnkgZGVmYXVsdCBhbmQgbWFrZXMgaXQgbXVjaCBlYXNpZXIsIHdpdGggICAgICAgICAgCiAgdGh1bWJuYWlscyBhbmQgYWRkaXRpb25hbCBpbmZvIGZvciBhbGwgb2YgeW91ciBmaWxlcyAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogIOKAoiDvgpsgUmVwb3J0IGFuIGlzc3VlIGh0dHBzOi8vZ2l0aHViLmNvbS91Ymx1ZS1vcy9iYXp6aXRlL2lzc3VlcyAgICAgICAgICAgIAogIOKAoiDzsIiZIERvY3VtZW50YXRpb24gaHR0cDovL2RvY3MuYmF6eml0ZS5nZy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICDigKIg87CZryBEaXNjb3JkIGh0dHBzOi8vZGlzY29yZC5iYXp6aXRlLmdnLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAg4oCiIPOwq5EgTWFzdG9kb24gaHR0cHM6Ly9mb3NzdG9kb24ub3JnL0BVbml2ZXJzYWxCbHVlICAgICAgICAgICAgICAgICAgICAgICAgIAogIOKAoiDuio4gQmx1ZXNreSBodHRwczovL2Jza3kuYXBwL3Byb2ZpbGUvYmF6eml0ZS5nZyAgICAgICAgICAgICAgICAgICAgICAgICAgIAptb2xvaXRrQGJhenppdGU6L3Zhci9ob21lL21vbG9pdGsvRG9jdW1lbnRzL0dpdEh1Yi9Nb25leV9NYXJ0JCAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACQBgAAAAAAAJAGAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					2,
+					4,
+					"terminus_render",
+					null,
+					"bQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABgAAAAAAAAAAAAAABgAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAcAAAAAAAAAAAAAAAYAAAAAAAAABgAAAAAAAAABAAAACgUAAAAAAAAABQAAAAAAAAABAAAACgQAAAAAAAAABAAAAAAAAAABAAAACgMAAAAAAAAAAwAAAAAAAAABAAAACgIAAAAAAAAAAgAAAAAAAAABAAAACgEAAAAAAAAAAQAAAAAAAAABAAAACgAAAAAAAAAAAAAAAAAAAAABAAAACgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABgAAAAAAAAAAAAAABgAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAcAAAAAAAAAAAAAAAYAAAAAAAAABgAAAAAAAAABAAAACgUAAAAAAAAABQAAAAAAAAABAAAACgQAAAAAAAAABAAAAAAAAAABAAAACgMAAAAAAAAAAwAAAAAAAAABAAAACgIAAAAAAAAAAgAAAAAAAAABAAAACgEAAAAAAAAAAQAAAAAAAAABAAAACgAAAAAAAAAAAAAAAAAAAAABAAAACgAAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAABDAAAAAAAAAAAAAABDAAAAAAAAAFgAAAAAAAAAAAAAAAsAAAAAAAAACwAAAAAAAAAAAAAACwAAAAAAAABXAAAAAAAAAAAAAAAKAAAAAAAAAEkAAAAAAAAAAAAAAEkAAAAAAAAAVgAAAAAAAAAAAAAACQAAAAAAAAA/AAAAAAAAAAAAAAA/AAAAAAAAAFUAAAAAAAAAAAAAAAgAAAAAAAAASQAAAAAAAAAAAAAASQAAAAAAAABUAAAAAAAAAAAAAAAHAAAAAAAAAEoAAAAAAAAAAAAAAEoAAAAAAAAAUwAAAAAAAAAAAAAABgAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAFIAAAAAAAAAAAAAAAUAAAAAAAAAOAAAAAAAAAAAAAAAOAAAAAAAAABRAAAAAAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAUAAAAAAAAAAAAAAAAwAAAAAAAAAbAAAAAAAAAAAAAAAbAAAAAAAAAE8AAAAAAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAABOAAAAAAAAAAAAAAABAAAAAAAAABcAAAAAAAAAAAAAABcAAAAAAAAATQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAOgDAAAAAAAA6QMAAAAAAAAAAAAA6QMAAAAAAAAfBAAAAAAAAAAAAAAfBAAAAAAAADUEAAAAAAAAAAAAADUEAAAAAAAANgQAAAAAAAAAAAAANgQAAAAAAAA2BAAAAAAAAAAAAAA2BAAAAAAAAIIEAAAAAAAAAAAAAIIEAAAAAAAAgwQAAAAAAAAAAAAAgwQAAAAAAADDBAAAAAAAAAAAAADDBAAAAAAAAM8EAAAAAAAAAAAAAM8EAAAAAAAA0AQAAAAAAAAAAAAA0AQAAAAAAAD7BAAAAAAAAAAAAAD7BAAAAAAAABwFAAAAAAAAAAAAABwFAAAAAAAAHQUAAAAAAAAAAAAAHQUAAAAAAABGBQAAAAAAAAAAAABGBQAAAAAAAGkFAAAAAAAAAAAAAGkFAAAAAAAAagUAAAAAAAAAAAAAagUAAAAAAACdBQAAAAAAAAAAAACdBQAAAAAAALYFAAAAAAAAAAAAALYFAAAAAAAAtwUAAAAAAAAAAAAAtwUAAAAAAADoBQAAAAAAAAAAAADoBQAAAAAAAAMGAAAAAAAAAAAAAAMGAAAAAAAABAYAAAAAAAAAAAAABAYAAAAAAAAEBgAAAAAAAAAAAADpAwAAAAAAAB8EAAAAAAAATAAAACAgSm9pbiBIaXQgU2F2ZSEncyBQYXRyZW9uIGh0dHBzOi8vcGF0cmVvbi5jb20vaGl0c2F2ZSAgICAgICAgICAgICAgICAgICAgICAfBAAAAAAAADUEAAAAAAAAAAAAADYEAAAAAAAANgQAAAAAAABMAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDYEAAAAAAAAggQAAAAAAAAAAAAAgwQAAAAAAADDBAAAAAAAAFAAAAAgIOKAoiDvgpsgUmVwb3J0IGFuIGlzc3VlIGh0dHBzOi8vZ2l0aHViLmNvbS91Ymx1ZS1vcy9iYXp6aXRlL2lzc3VlcyAgICAgICAgICAgIMMEAAAAAAAAzwQAAAAAAAAAAAAA0AQAAAAAAAD7BAAAAAAAAFEAAAAgIOKAoiDzsIiZIERvY3VtZW50YXRpb24gaHR0cDovL2RvY3MuYmF6eml0ZS5nZy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICD7BAAAAAAAABwFAAAAAAAAAAAAAB0FAAAAAAAARgUAAAAAAABRAAAAICDigKIg87CZryBEaXNjb3JkIGh0dHBzOi8vZGlzY29yZC5iYXp6aXRlLmdnLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRgUAAAAAAABpBQAAAAAAAAAAAABqBQAAAAAAAJ0FAAAAAAAAUQAAACAg4oCiIPOwq5EgTWFzdG9kb24gaHR0cHM6Ly9mb3NzdG9kb24ub3JnL0BVbml2ZXJzYWxCbHVlICAgICAgICAgICAgICAgICAgICAgICAgIJ0FAAAAAAAAtgUAAAAAAAAAAAAAtwUAAAAAAADoBQAAAAAAAFAAAAAgIOKAoiDuio4gQmx1ZXNreSBodHRwczovL2Jza3kuYXBwL3Byb2ZpbGUvYmF6eml0ZS5nZyAgICAgICAgICAgICAgICAgICAgICAgICAgIOgFAAAAAAAAAwYAAAAAAAAAAAAABAYAAAAAAAAEBgAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					3,
+					2,
+					"terminus_render",
+					null,
+					"AgAAAAQGAAAAAAAAQgYAAAAAAAAAAAAAQgYAAAAAAABDBgAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAEBgAAAAAAAAQGAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"rename",
+				"Terminus: Rename Title"
+			],
+			[
+				"terminus rename",
+				"Terminus: Rename Title"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"Open defa",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"package",
+				"Package Control: Add Repository"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/moloitk/Documents/GitHub/Money_Mart",
+		"/home/moloitk/Documents/GitHub/Money_Mart/app"
+	],
+	"file_history":
+	[
+		"/var/home/moloitk/.config/sublime-merge/Packages/User/Preferences.sublime-settings",
+		"/var/home/moloitk/.config/sublime-text/Packages/Terminus/Default.sublime-keymap",
+		"/var/home/moloitk/.config/sublime-text/Packages/User/Default (Linux).sublime-keymap",
+		"/var/home/moloitk/.config/sublime-text/Packages/User/Terminus.sublime-settings",
+		"/var/home/moloitk/.config/sublime-text/Packages/Terminus/Terminus.sublime-settings"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/layout.tsx",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1094,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1093,
+								1093
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1092,
+										1093
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										917,
+										918
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_helper.refresh": true,
+							"color_helper.scan":
+							{
+								"allow_scanning": false,
+								"color_class":
+								[
+									{
+										"class": "css-level-4",
+										"scopes": ""
+									}
+								],
+								"color_trigger": "(?xi)\n(?:\n    \\b(?<![-#&$])(?:\n        color\\((?!\\s*-)|(?:hsla?|(?:ok)?(?:lch|lab)|hwb|rgba?)\\(\n) |\n\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])\\#)\n",
+								"current_ext": ".tsx",
+								"current_syntax": "JavaScript/TSX",
+								"enabled": true,
+								"last_updated": 1772531369.03,
+								"scanning": "-comment"
+							},
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/JavaScript/TSX.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 306.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1603,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1603,
+								1603
+							]
+						],
+						"settings":
+						{
+							"__vi_external_disable": true,
+							"auto_complete": false,
+							"auto_complete_commit_on_tab": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone_locations":
+							{
+							},
+							"bracket_highlighter.ignore": true,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_helper.refresh": true,
+							"color_scheme": "Terminus.hidden-color-scheme",
+							"default_dir": "/home/moloitk/Documents/GitHub/personal-portfolio-nextjs/components",
+							"draw_centered": false,
+							"draw_indent_guides": false,
+							"draw_unicode_white_space": false,
+							"draw_white_space": "none",
+							"git_gutter_is_enabled": false,
+							"gutter": false,
+							"highlight_line": false,
+							"is_widget": true,
+							"result_base_dir": "/home/moloitk/Documents/GitHub/Money_Mart",
+							"result_file_regex": null,
+							"result_line_regex": null,
+							"rulers":
+							[
+								500
+							],
+							"scroll_past_end": true,
+							"syntax": "Terminus View.sublime-syntax",
+							"terminus.highlight_counter": 31,
+							"terminus_view": true,
+							"terminus_view.args":
+							{
+								"auto_close": true,
+								"cancellable": false,
+								"cmd":
+								[
+									"/bin/bash",
+									"-i",
+									"-l"
+								],
+								"cwd": "/home/moloitk/Documents/GitHub/Money_Mart",
+								"default_title": "Login Shell",
+								"env":
+								{
+									"LANG": "en_ZA.UTF-8",
+									"PROMPT_TOOLKIT_COLOR_DEPTH": "DEPTH_8_BIT",
+									"TERM": "xterm-256color",
+									"TERMINUS_SUBLIME": "1",
+									"TERM_PROGRAM": "Terminus-Sublime"
+								},
+								"file_regex": null,
+								"line_regex": null,
+								"panel_name": "Terminus",
+								"reactivable": true,
+								"show_in_panel": null,
+								"tag": null,
+								"timeit": false,
+								"title": null,
+								"view_settings":
+								{
+								}
+							},
+							"terminus_view.cancellable": false,
+							"terminus_view.key.ctrl+k": true,
+							"terminus_view.key.ctrl+p": true,
+							"terminus_view.natural_keyboard": true,
+							"terminus_view.reactivable": true,
+							"terminus_view.tag": null,
+							"terminus_view.viewport_y": 247.0,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 247.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.807448073073,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.Terminus":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "",
+	"project": "Money_Mart.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 284.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
